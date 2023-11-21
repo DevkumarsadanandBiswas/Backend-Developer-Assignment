@@ -1,0 +1,137 @@
+
+[
+    {
+      "question": "What is the theory of relativity?",
+      "subject": "Physics",
+      "topic": "Relativity",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Explain the process of cellular respiration",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Solve the equation 3x + 7 = 22",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of climate change on ecosystems",
+      "subject": "Environmental Science",
+      "topic": "Climate Change",
+      "difficulty": "Medium",
+      "marks": 9
+    },
+    {
+      "question": "Who were the key figures in the Renaissance period?",
+      "subject": "History",
+      "topic": "Renaissance",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Define the concept of supply and demand in economics",
+      "subject": "Economics",
+      "topic": "Microeconomics",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Name the planets in our solar system",
+      "subject": "Astronomy",
+      "topic": "Solar System",
+      "difficulty": "Easy",
+      "marks": 6
+    },
+    {
+      "question": "Discuss the causes and consequences of World War I",
+      "subject": "History",
+      "topic": "World War I",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Describe the structure of an atom",
+      "subject": "Chemistry",
+      "topic": "Atomic Structure",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "Solve the trigonometric equation sin(x) = 0.5",
+      "subject": "Mathematics",
+      "topic": "Trigonometry",
+      "difficulty": "Hard",
+      "marks": 9
+    },
+    {
+      "question": "Explain the principles of genetics",
+      "subject": "Biology",
+      "topic": "Genetics",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Discuss the causes and effects of deforestation",
+      "subject": "Environmental Science",
+      "topic": "Deforestation",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "Name the major literary works of William Shakespeare",
+      "subject": "Literature",
+      "topic": "Shakespearean Plays",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Simplify the expression (2x + 3)(x - 4)",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Easy",
+      "marks": 6
+    },
+    {
+      "question": "Discuss the principles of democracy",
+      "subject": "Political Science",
+      "topic": "Democracy",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Explain the concept of biodiversity",
+      "subject": "Biology",
+      "topic": "Biodiversity",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "Solve the linear equation 4y - 6 = 18",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of globalization on cultures",
+      "subject": "Sociology",
+      "topic": "Globalization",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Define the concept of entropy in thermodynamics",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "difficulty": "Hard",
+      "marks": 9
+    }
+  ]
+  
